@@ -32,5 +32,4 @@ ro.oplus.gaussianlevel=1
 ro.launcher.blur.appLaunch=0
 ````
 # Compatibility
-• Still Not Sure About Everh Device,Pull Request if it didn't work..
-
+• Still Not Sure About Every Device,Pull Request if it didn't work. Supports RUI 4 & 5 
