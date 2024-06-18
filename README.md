@@ -3,6 +3,7 @@ A module which is meant to remove blur in Realme Devices (Dont Know about Oneplu
 
 # Versions 
 There are Two Versions of Blurify 
+
 • UnBlurify Lite - This Removes the Blur on Your System.(No addon)
 
 • UnBlurify - This Removes the Blur and Also adds Animations to Your Realme Launcher 
@@ -18,7 +19,7 @@ There are Two Versions of Blurify
 
 # How to use UnBlurify Module on Non Rooted Devices 
 
-Its Quite interesting but You can somehow try to remove blur by changing the Secure Table.Which I won't recommend but You can Give it a try
+Its Quite interesting but You can somehow try to remove blur by changing the Secure Table.Which I won't recommend but You can Give it a try.
 
 • Use Settings DataBase Editor App (Available on Play Store)
 
@@ -32,4 +33,8 @@ ro.oplus.gaussianlevel=1
 ro.launcher.blur.appLaunch=0
 ````
 # Compatibility
-• Still Not Sure About Every Device,Pull Request if it didn't work. Supports RUI 4 & 5 
+• Still Not Sure About Every Device,Pull Request if it didn't work. Supports RUI 4 & 5
+
+# Why this Module Exist?
+
+Don't Know Buddy 😶‍🌫️
