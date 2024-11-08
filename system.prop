@@ -1,9 +1,0 @@
-ro.surface_flinger.supports_background_blur=0
-ro.surface_flinger.media_panel_bg_blur=0
-persist.sys.oplus.anim_level=1
-ro.oplus.gaussianlevel=1
-ro.launcher.blur.appLaunch=0
-vendor.display.enable_rounded_corner=1
-com.oplus.feature.slogan.location.support=true
-com.oplus.feature.watermark.param=true
-settings_app_locale_opt_in_enabled=false
